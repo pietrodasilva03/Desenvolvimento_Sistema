@@ -6,7 +6,7 @@ public class App {
 	
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
-	double base , altura , area;
+		double base , altura , area;
 
 
 	do {
